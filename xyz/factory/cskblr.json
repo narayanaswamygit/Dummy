@@ -1,0 +1,9 @@
+{
+	"name": "cskblr",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b33f45e1-98f6-470e-bbf7-834af835d6b0",
+		"tenantId": "e616e1d2-0942-4230-bdc8-e15e493b864d"
+	}
+}
